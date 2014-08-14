@@ -15,14 +15,10 @@ This board went through several design iterations. It started out as a way to fl
 
 Two revisions are shown; the newer of the two shows the addition of an integrated USB-B connector, extra features (ability to output serial, built-in bootloader for reflashing), and bug-fixes (a crystal turned out to be much more stable than a resonator).
 
-### v2.0 Schematic
-[![v2.0 Schematic](xbox-nand-flasher/thumbs/v2.0-schematic.png)](xbox-nand-flasher/v2.0-schematic.png)
-### v2.0 Board
-[![v2.0 Board](xbox-nand-flasher/thumbs/v2.0-board.png)](xbox-nand-flasher/v2.0-board.png)
-### v2.3 Schematic
-[![v2.3 Schematic](xbox-nand-flasher/thumbs/v2.3-schematic.png)](xbox-nand-flasher/v2.3-schematic.png)
-### v2.3 Board
-[![v2.3 Board](xbox-nand-flasher/thumbs/v2.3-board.png)](xbox-nand-flasher/v2.3-board.png)
+### v2.0 Schematic & Board
+[![v2.0 Schematic](xbox-nand-flasher/thumbs/v2.0-schematic.png)](xbox-nand-flasher/v2.0-schematic.png) [![v2.0 Board](xbox-nand-flasher/thumbs/v2.0-board.png)](xbox-nand-flasher/v2.0-board.png)
+### v2.3 Schematic & Board 
+[![v2.3 Schematic](xbox-nand-flasher/thumbs/v2.3-schematic.png)](xbox-nand-flasher/v2.3-schematic.png) [![v2.3 Board](xbox-nand-flasher/thumbs/v2.3-board.png)](xbox-nand-flasher/v2.3-board.png)
 
 Beat Detector
 -------------
@@ -30,10 +26,8 @@ This board uses a low-pass filter, envelope detector and a comparator to flash l
 
 If I made another version of this board, I would likely drop the monostable 555 as I'm not really a fan of it's effect. Or possibly add a bypass switch, or more adjustments. Would also rework it to be much smaller, and with more convenient mounting holes.
 
-### Schematic
-[![Schematic](beat-detector/thumbs/schematic.png)](beat-detector/schematic.png)
-### Board
-[![Board](beat-detector/thumbs/board.png)](beat-detector/board.png)
+### Schematic & Board
+[![Schematic](beat-detector/thumbs/schematic.png)](beat-detector/schematic.png) [![Board](beat-detector/thumbs/board.png)](beat-detector/board.png)
 
 LiPo Power Supply
 -----------------
@@ -54,10 +48,8 @@ This project turned out to be very helpful when working with op-amps. The board 
 
 Adjustment switches and knobs allow the output voltage to be preset, or adjusted.
 
-### Schematic
-[![Schematic](breadboard-power-supply/thumbs/schematic.png)](breadboard-power-supply/schematic.png)
-### Board
-[![Board](breadboard-power-supply/thumbs/board.png)](breadboard-power-supply/board.png)
+### Schematic & Board
+[![Schematic](breadboard-power-supply/thumbs/schematic.png)](breadboard-power-supply/schematic.png) [![Board](breadboard-power-supply/thumbs/board.png)](breadboard-power-supply/board.png)
 
 Lift Light
 ----------
@@ -67,12 +59,8 @@ When "Lift" was activated, a 10% 200Hz square wave signal would go to 100% duty.
 
 The circuit board was designed to be small enough to fit in-line and be covered with heatshrink tubing.
 
-### Schematic
-[![Schematic](lift-light/thumbs/schematic.png)](lift-light/schematic.png)
-### Board Top
-[![Board](lift-light/thumbs/board-top.png)](lift-light/board-top.png)
-### Board Bottom
-[![Board](lift-light/thumbs/board-bottom.png)](lift-light/board-bottom.png)
+### Schematic, Top & Bottom Boards
+[![Schematic](lift-light/thumbs/schematic.png)](lift-light/schematic.png) [![Board](lift-light/thumbs/board-top.png)](lift-light/board-top.png) [![Board](lift-light/thumbs/board-bottom.png)](lift-light/board-bottom.png)
 
 Aircraft Receiver
 -----------------
@@ -81,9 +69,5 @@ This project is still a Work-In-Progress and the final design is un-tested.
 
 The design of this circuit comes from [this site for an Aviation Band Receiver](http://www.sentex.ca/~mec1995/circ/aviarx/aviarx.html), with the board designed to fit perfectly inside [this Hammond enclosure](http://www.hammondmfg.com/pdf/1593L.pdf).
 
-### Schematic
-[![Schematic](aircraft-receiver/thumbs/schematic.png)](aircraft-receiver/schematic.png)
-### Board Top
-[![Board](aircraft-receiver/thumbs/board-top.png)](aircraft-receiver/board-top.png)
-### Board Bottom
-[![Board](aircraft-receiver/thumbs/board-bottom.png)](aircraft-receiver/board-bottom.png)
+### Schematic, Top & Bottom Boards
+[![Schematic](aircraft-receiver/thumbs/schematic.png)](aircraft-receiver/schematic.png) [![Board](aircraft-receiver/thumbs/board-top.png)](aircraft-receiver/board-top.png) [![Board](aircraft-receiver/thumbs/board-bottom.png)](aircraft-receiver/board-bottom.png)
