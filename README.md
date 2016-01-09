@@ -12,19 +12,19 @@ Cheers,
 
 ##TOC
 
-[Raspberry Pi Measurement Shield](#raspberry-pi-measurement-shield)
-[4 Channel Temperature Controller](#4-channel-temperature-controller)
-[Wrist-Mounted Accelerometer](#wrist-mounted-accelerometer)
-[Interval Timer](#interval-timer)
-[Traffic Light Control Board](#traffic-light-control-board)
-[USB Line In](#usb-line-in)
-[USB Toggle Switch](#usb-toggle-switch)
-[Aircraft Receiver](#aircraft-receiver)
-[Lift Light](#lift-light)
-[Breadboard Power Supply](#breadboard-power-supply)
-[LiPo Power Supply](#lipo-power-supply)
-[Beat Detector](#beat-detector)
-[Xbox NAND Flasher](#xbox-nand-flasher)
+- [Raspberry Pi Measurement Shield](#raspberry-pi-measurement-shield)
+- [4 Channel Temperature Controller](#4-channel-temperature-controller)
+- [Wrist-Mounted Accelerometer](#wrist-mounted-accelerometer)
+- [Interval Timer](#interval-timer)
+- [Traffic Light Control Board](#traffic-light-control-board)
+- [USB Line In](#usb-line-in)
+- [USB Toggle Switch](#usb-toggle-switch)
+- [Aircraft Receiver](#aircraft-receiver)
+- [Lift Light](#lift-light)
+- [Breadboard Power Supply](#breadboard-power-supply)
+- [LiPo Power Supply](#lipo-power-supply)
+- [Beat Detector](#beat-detector)
+- [Xbox NAND Flasher](#xbox-nand-flasher)
 
 
 ## Projects
