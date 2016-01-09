@@ -18,10 +18,10 @@ Cheers,
 4. [Breadboard Power Supply](#4-breadboard-power-supply)
 5. [Lift Light](#5-lift-light)
 6. [Aircraft Receiver](#6-aircraft-receiver)
-9. [USB Toggle Switch](#7-usb-toggle-switch)
-10. [USB Line In](#8-usb-line-in)
-11. [Traffic Light Control Board](#9-traffic-light-control-board)
-12. [Interval Timer](#10-interval-timer)
+7. [USB Toggle Switch](#7-usb-toggle-switch)
+8. [USB Line In](#8-usb-line-in)
+9. [Traffic Light Control Board](#9-traffic-light-control-board)
+10. [Interval Timer](#10-interval-timer)
 
 
 ## Projects
